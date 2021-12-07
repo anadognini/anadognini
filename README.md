@@ -4,11 +4,11 @@
 - 📚 Estudando JavaScript/TypeScript.
 - 👩‍💻 Pronomes: ela/dela.
 
-<div>
+<div align="center">
   <a href="https://github.com/anadognini">
-    <img height="180cm" width="49%"
+    <img height="180cm"
       src="https://github-readme-stats.vercel.app/api?username=anadognini&theme=midnight-purple&show_icons=true">
-    <img height="180cm" width="49%"
+    <img height="180cm" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadognini&layout=compact&theme=midnight-purple">
 </div>
 
