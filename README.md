@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/anadognini">
-    <img height="180cm" width="48%"
+    <img height="180cm"
       src="https://github-readme-stats.vercel.app/api?username=anadognini&theme=midnight-purple&show_icons=true">
-    <img height="180cm" width="48%"
+    <img height="180cm"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadognini&layout=compact&theme=midnight-purple">
 </div>
 
@@ -35,5 +35,3 @@
   <a href="Instagram" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/anadognini/anadognini/raw/output/github-contribution-grid-snake.svg)
