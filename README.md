@@ -36,4 +36,4 @@
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/anadognini/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anadognini/anadognini/raw/output/github-contribution-grid-snake.svg)
