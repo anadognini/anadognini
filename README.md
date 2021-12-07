@@ -21,7 +21,7 @@
 </div>
 
 <div>
-  <h2>Tecnologias que eu mais uso</h2>
+  <h2>Tecnologias que eu mais uso:</h2>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
