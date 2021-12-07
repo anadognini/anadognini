@@ -6,9 +6,9 @@
 
 <div>
   <a href="https://github.com/anadognini">
-    <img height="180cm"
+    <img height="180cm" width="49%"
       src="https://github-readme-stats.vercel.app/api?username=anadognini&theme=midnight-purple&show_icons=true">
-    <img height="180cm"
+    <img height="180cm" width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadognini&layout=compact&theme=midnight-purple">
 </div>
 
