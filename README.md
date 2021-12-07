@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou trabalhando com Front-end.
 - 📚 Estudando JavaScript/TypeScript.
-- 👩‍💻 Pronouns: ela/dela.
+- 👩‍💻 Pronomes: ela/dela.
 
 <div>
   <a href="https://github.com/anadognini">
