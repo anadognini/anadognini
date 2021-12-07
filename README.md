@@ -32,6 +32,6 @@
       target="_blank"></a>
   <a href="https://www.facebook.com/aanadognini/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/2111/2111393.png" alt="Facebook" target="_blank"></a>
-  <a href="Instagram" target="_blank"><img height="30" width="30"
+  <a href="https://www.instagram.com/anadognini/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
