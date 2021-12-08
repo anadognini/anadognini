@@ -36,4 +36,6 @@
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
   
+  <br>
+  
   ![snake gif](https://github.com/anadognini/anadognini/blob/output/github-contribution-grid-snake.svg)
