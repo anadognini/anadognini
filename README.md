@@ -35,3 +35,5 @@
   <a href="https://www.instagram.com/anadognini/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
+  
+  ![snake gif](https://github.com/anadognini/anadognini/blob/output/github-contribution-grid-snake.svg)
