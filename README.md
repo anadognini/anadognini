@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Ana!
 
 - 💻 Atualmente estou trabalhando com Front-end.
-- 📚 Estudando JavaScript/TypeScript.
+- 📚 Estudando JavaScript/TypeScript e Java.
 - ♀ Pronomes: ela/dela.
 
 <div align="center">
