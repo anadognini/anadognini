@@ -4,7 +4,7 @@
 - 📚 Estudando Java.
 - 👩‍💻 Participante do Entra21 de 2022.
 - ♀ Pronomes: ela/dela.
-- 📍 Blumenau - Santa Catarina
+- 📍 Blumenau, Santa Catarina.
 
 <div align="center">
   <a href="https://github.com/anadognini">
