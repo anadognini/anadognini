@@ -1,6 +1,7 @@
 ## Oie! Eu sou a Ana!
 
 - 💻 Atualmente estou fazendo Ciência da Computação na Universidade Regional de Blumenau (FURB).
+- 📍 De Blumenau - Santa Catarina.
 - 📚 Estudando Java.
 - 👩‍💻 Participante do Entra21 de 2022.
 - ♀ Pronomes: ela/dela.
