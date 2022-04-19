@@ -2,8 +2,8 @@
 
 - 💻 Atualmente estou fazendo Ciência da Computação na Universidade Regional de Blumenau (FURB).
 - 📚 Estudando Java.
+- 👩‍💻 Participante do Entra21 de 2022.
 - ♀ Pronomes: ela/dela.
-- Participante do Entra21 de 2022!
 
 <div align="center">
   <a href="https://github.com/anadognini">
