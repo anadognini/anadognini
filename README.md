@@ -1,8 +1,9 @@
 ## Oie! Eu sou a Ana!
 
-- 💻 Atualmente estou trabalhando com Front-end.
+- 💻 Atualmente estou fazendo Ciência da Computação na Universidade Regional de Blumenau (FURB).
 - 📚 Estudando Java.
 - ♀ Pronomes: ela/dela.
+- Participante do Entra21 de 2022!
 
 <div align="center">
   <a href="https://github.com/anadognini">
