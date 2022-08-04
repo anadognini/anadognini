@@ -1,10 +1,10 @@
-## Oie! Eu sou a Ana!
+## Hi! I'm Ana!
 
-- 💻 Atualmente estou fazendo Ciência da Computação na Universidade Regional de Blumenau (FURB).
-- 📚 Estudando Java.
-- 👩‍💻 Participante do Entra21 de 2022.
-- ♀ Pronomes: ela/dela.
-- 📍 Blumenau, Santa Catarina.
+- 💻 I'm currently studying to get a B.Sc. in Computer Science at FURB (Universidade Regional de Blumenau).
+- 📚 Studying Java.
+- 👩‍💻 Participant of the Entra21 - Java class of 2022.
+- ♀ Pronouns: she/her.
+- 📍 Blumenau, Santa Catarina, Brazil.
 
 <div align="center">
   <a href="https://github.com/anadognini">
@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline-block"><br>
-  <h2>Linguagens que eu mais uso:</h2>
+  <h2>Most used languages:</h2>
   <img height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" width="40"
@@ -25,12 +25,12 @@
 </div>
 
 <div>
-  <h2>Tecnologias que eu mais uso:</h2>
+  <h2>Most used technologies:</h2>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 <div>
-  <h2>Minhas redes sociais: </h2>
+  <h2>Social media: </h2>
   <a href="https://www.linkedin.com/in/ana-dognini-a9458320a/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/1384/1384062.png" alt="Linkedin"
       target="_blank"></a>
