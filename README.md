@@ -1,7 +1,7 @@
 ## Hi! I'm Ana!
 
-- 💻 I'm currently studying to get a B.Sc. in Computer Science at FURB (Universidade Regional de Blumenau).
-- 📚 Studying Java.
+- 💻 Bachelor of Computer Science.
+- 📚 Currently studying Data Science and Python.
 - 👩‍💻 Participant of the Entra21 - Java class of 2022.
 - ♀ Pronouns: she/her.
 - 📍 Blumenau, Santa Catarina, Brazil.
