@@ -1,9 +1,8 @@
-## Hi! I'm Ana!
+## Olá! Eu sou a Ana e esse é o meu Github!
 
-- 💻 Bachelor of Computer Science.
-- 📚 Currently studying Data Science and Python.
-- 👩‍💻 Participant of the Entra21 - Java class of 2022.
-- ♀ Pronouns: she/her.
+- 💻 Sou cientista de dados com Python.
+- 📚 Estudando Ciência da Computação pela FURB.
+- 👩‍💻 Tive a oportunidade de participar do Entra21 no ano de 2023.
 - 📍 Blumenau, Santa Catarina, Brazil.
 
 <div align="center">
