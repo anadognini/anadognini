@@ -15,8 +15,6 @@
 
 <div style="display: inline-block"><br>
   <h2>Linguagens de programação mais usadas:</h2>
-   <img height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30" width="40"
@@ -28,7 +26,9 @@
 </div>
 
 <div>
-  <h2>Most used technologies:</h2>
+  <h2>Tecnologias:</h2>
+  <img height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
