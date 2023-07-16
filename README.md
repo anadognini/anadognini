@@ -15,6 +15,8 @@
 
 <div style="display: inline-block"><br>
   <h2>Most used languages:</h2>
+   <img height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" width="40"
@@ -32,9 +34,7 @@
   <h2>Social media: </h2>
   <a href="https://www.linkedin.com/in/ana-dognini-a9458320a/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/1384/1384062.png" alt="Linkedin"
-      target="_blank"></a>
-  <a href="https://www.facebook.com/aanadognini/" target="_blank"><img height="30" width="30"
-      src="https://cdn-icons-png.flaticon.com/512/2111/2111393.png" alt="Facebook" target="_blank"></a>
+      target="_blank"></a> 
   <a href="https://www.instagram.com/anadognini/" target="_blank"><img height="30" width="30"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" target="_blank"></a>
 </div>
