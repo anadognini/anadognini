@@ -3,7 +3,7 @@
 - 💻 Futura cientista de dados com Python.
 - 📚 Estudando Ciência da Computação pela FURB.
 - 🧬 Apaixonada por tudo que envolve genética.
-- 👩‍💻 Tive a oportunidade de participar do Entra21 no ano de 2023.
+- 👩‍💻 Tive a oportunidade de participar do Entra21 no ano de 2022.
 - 📍 Blumenau, Santa Catarina, Brazil.
 
 <div align="center">
