@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana e esse é o meu Github!
 
-- 💻 Desenvolvedora.
+- 💻 Desenvolvedora com uma profunda paixão por música.
 - 📚 Estudando Ciência da Computação pela FURB.
 - 👩‍💻 Tive a oportunidade de participar do Entra21 no ano de 2022.
 - 📍 Blumenau, Santa Catarina, Brazil.
