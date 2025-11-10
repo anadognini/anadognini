@@ -8,7 +8,7 @@
 - Apaixonada por descobrir como a ciência de dados pode se conectar à arte, à música e às emoções humanas.
 - Acredito que a tecnologia faz parte do nosso processo de evolução artística.
 - Em 2022, tive oportunidade de participar do Entra21.
-- 📍 Blumenau, Santa Catarina - mas meu destino é o mundo.</div>
+- 📍 Blumenau, Santa Catarina, mas meu destino é o mundo.</div>
 
 ## Conecte-se comigo
 
