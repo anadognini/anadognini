@@ -1,11 +1,10 @@
 # Olá! Eu sou a Ana! 
-<div><i>Cientista de Dados em formação | Python | IA | Machine Learning</i></div>
+<div><i>Data Science | Python | IA | Machine Learning | Research </i></div>
 
 ## Sobre mim
 
 - Graduanda em **Ciência da Computação (FURB)**.
 - Movida pela curiosidade, pela busca por significado e pelo desejo de compreender padrões.
-- Apaixonada por descobrir como a ciência de dados pode se conectar à arte, à música e às emoções humanas.
 - Acredito que a tecnologia faz parte do nosso processo de evolução artística.
 - Em 2022, tive a oportunidade de participar do Entra21.
 - 📍 Blumenau, Santa Catarina, mas meu destino é o mundo.</div>
