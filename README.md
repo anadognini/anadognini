@@ -1,15 +1,15 @@
-# Olá! Eu sou a Ana! 
-<div><i>Data Science | Python | IA | Machine Learning | Research </i></div>
+# Hi! I'm Ana!
+<div><i>Computational Linguistics & Data Science | NLP Research in Portuguese | ML Pipeline Development </i></div>
 
-## Sobre mim
+## About me
 
-- Graduanda em **Ciência da Computação (FURB)**.
-- Movida pela curiosidade, pela busca por significado e pelo desejo de compreender padrões.
-- Acredito que a tecnologia faz parte do nosso processo de evolução artística.
-- Em 2022, tive a oportunidade de participar do Entra21.
-- 📍 Blumenau, Santa Catarina, mas meu destino é o mundo.</div>
+I am a Computer Science student focused on Natural Language Processing and Data Science, with particular interest in bias and fairness in Portuguese language models.
 
-## Conecte-se comigo
+My work involves building end-to-end ML pipelines, from data acquisition and preprocessing to modeling and evaluation. I am especially interested in the intersection between language, computation, and social impact.
+
+I aim to combine industry experience in Data Science with academic research in NLP and Computational Linguistics.</div>
+
+## Connect with me
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 
 </div>
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 
 <div align="center">
 
@@ -29,11 +29,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<div align="center">
-  <a href="https://github.com/anadognini">
-    <img height="180cm" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadognini&layout=compact&theme=midnight-purple"></a></div>
 
 
 
