@@ -1,13 +1,5 @@
 # Hi! I'm Ana!
-<div><i>Computational Linguistics & Data Science | NLP Research in Portuguese | ML Pipeline Development </i></div>
-
 ## About me
-
-I am a Computer Science student focused on Natural Language Processing and Data Science, with particular interest in bias and fairness in Portuguese language models.
-
-My work involves building end-to-end ML pipelines, from data acquisition and preprocessing to modeling and evaluation. I am especially interested in the intersection between language, computation, and social impact.
-
-I aim to combine industry experience in Data Science with academic research in NLP and Computational Linguistics.</div>
 
 ## Connect with me
 
